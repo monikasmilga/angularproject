@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
 })
 export class CoursesComponent {
     title = 'world!';
-    courses = ["K1", "K2", "K3"];
+    courses = ["Course 1", "Course 2", "Course 3"];
 }
